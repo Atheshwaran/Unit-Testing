@@ -5,7 +5,7 @@ var assert = require('assert'),
 
 var answer;
 var user = {
-    name: 'Athesh',
+    name: 'Athes',
     pets: ['dog', 'cat', 'rooster', 'rabbit']
 };
 
